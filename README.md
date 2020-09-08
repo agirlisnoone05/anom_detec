@@ -1,3 +1,3 @@
 # anom_detec
 
-![](img/capture.PNG)
+![](img/Capture.PNG)
